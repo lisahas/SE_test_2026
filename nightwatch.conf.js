@@ -87,7 +87,7 @@ module.exports = {
   usage_analytics: {
     enabled: true,
     log_path: './logs/analytics',
-    client_id: '69bb3192-7cbf-4a2c-abb6-f72fc4b29f56'
+    client_id: '10c8309f-b70e-4482-bb39-c3a00725d38f'
   }
   
 };
