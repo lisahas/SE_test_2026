@@ -26,4 +26,4 @@ jobs:
       with:
         node-version: '24'
     - name: check node
-      run: node –version
+      run: node --version
